@@ -19,7 +19,7 @@ if (confirmacion) {
     
     if (intentos === 3) {
       alert("Has excedido el número máximo de intentos");
-      break; // Salir del bucle si se excedieron los 3 intentos
+      break;
     }
   }
 } else {
